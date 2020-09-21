@@ -1,0 +1,10 @@
+utilidad_buena	-La rentabilidad neta es buena, sigue asi.
+utilidad_mala	-El negocio no es rentable, recurre a un asesor especializado.
+liquidez_buena	-La liquidez es buena, sigue asi.
+liquidez_baja	-No hay efectivo suficiente para pagar las deudas, te recomendamos obtener un prestamo.
+liquidez_alta	-Hay demasiado efectivo. Se recomienda invertirlo.
+acida_alta	-El almacen es muy grande, vende parte del inventario.
+acida_baja	-Hay muy poco inventario, se debe de comprar mas.
+acida_buena	-El inventario no es mucho ni poco. Sigue asi.
+capital_bueno	-El retorno de capital invertido es bueno. El negocio recupero o recuperara la inversion inicial.
+capital_malo	-El negocio no es efectivo porque no paga mas que el ingreso al guardar dinero en un banco.

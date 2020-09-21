@@ -1,0 +1,7 @@
+Escribe el indice que deseas ver:
+(utilidad neta, liquidez,liquidez acida, RCI o imprimir todos)
+
+Escribe el reporte financiero que deseas ver:
+(Balance o Estado de resultados)
+
+Escribe FIN cuando ya no quieras ver mas indices
