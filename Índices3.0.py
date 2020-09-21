@@ -4,7 +4,7 @@
 empresa y darle recomendaciones. Además el usuario puede decidir si
 desea visualizar los índices utilizados para darle recomendaciones
 o inclusive ver los reportes financieros (balance y estado de
-resultados."""
+resultados)."""
 
 import turtle
 
